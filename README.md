@@ -142,6 +142,4 @@ streamlit run ui/streamlit_app.py
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use, modify, and build on this project.
